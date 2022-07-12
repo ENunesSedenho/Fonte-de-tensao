@@ -8,7 +8,7 @@ Projeto da disciplina de eletrônica para computação - Prof. Eduardo Simões -
 Projetar e construir uma fonte e etc especificações e os krl
 
 # Diagrama da Fonte
-![Foto da fonte no falstad](https://i.imgur.com/D4girGb.png "Foto da fonte no falstad)
+![foto1]
 
 [foto1]: https://i.imgur.com/D4girGb.png
 
@@ -18,7 +18,7 @@ Projetar e construir uma fonte e etc especificações e os krl
 (
 
 |  Quantidade  |  Componente  |  Especificações  |  Preço  |
-|---|---|---|---|
+||---|---|---|
 | quantidade de peças | [nome da peça](link para comprar a peça) |Trafo Bivolt 18+18v 200mA|R$27,99|
 | Total | - | - |R$36,20|
 
