@@ -16,6 +16,7 @@ Projetar e construir uma fonte e etc especificações e os krl
 ## Componentes da fonte
 
 |  Quantidade  |  Componente  |  Especificações  |  Preço  |
+|---|---|---|---|
 | 1 | Potenciômetro | 1W B5K B-16 5XE-20XR-7MM J | R$ 7,00 |
 | 1 | Diodo zener | 13V 1W = 1N4743 SEMTECH | R$ 0,48 |
 | 1 | Capacitor | capacitor ELCO 680uF X 10V 105ºC 12,2 X 8 TOP | R$ 1,40 |
