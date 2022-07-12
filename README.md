@@ -13,7 +13,7 @@ Projetar e construir uma fonte e etc especificações e os krl
 
 [Link para o circuito no Falstad](https://tinyurl.com/25gdhbp7)
 
-## Componentes da fonte:
+## Componentes da fonte
 
 |  Quantidade  |  Componente  |  Especificações  |  Preço  |
 | 1 | Potenciômetro | 1W B5K B-16 5XE-20XR-7MM J | R$ 7,00 |
