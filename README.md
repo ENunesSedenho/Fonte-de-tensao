@@ -24,7 +24,7 @@ Projetar e construir uma fonte e etc especificações e os krl
 | 4 | Diodo | diodo retificador 1N4007 LGE = 1N4004 | R$ 0,20 |
 | 4 | Resistor 1k | resistor CR25 1K carvão LGE | R$ 0,07 |
 | 1 | Resistor 2k | resistor CR25 2K2 carvão ROHS | R$ 0,07 |
-| 1 | Transformador | 127V - 124V | - |
+| 1 | Transformador | 127V - 24V | - |
 | 1 | Protoboard | - | - |
 | 15 | - | - | R$ 10,53 |
 
