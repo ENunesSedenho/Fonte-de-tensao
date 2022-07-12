@@ -25,7 +25,10 @@ Projetar e construir uma fonte e etc especificações e os krl
 | 4 | Resistor 1k | resistor CR25 1K carvão LGE | R$ 0,07 |
 | 1 | Resistor 2k | resistor CR25 2K2 carvão ROHS | R$ 0,07 |
 | 1 | Transformador | 127V - 124V | - |
-| 14 | - | - | R$ 10,53 |
+| 1 | Protoboard | - | - |
+| 15 | - | - | R$ 10,53 |
+
+Obs.: O transformador, fios e protoboard foram emprestados do laboratório.
 
 ## Projeto no Eagle: 
 ![foto2]
