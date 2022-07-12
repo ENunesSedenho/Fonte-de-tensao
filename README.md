@@ -1,17 +1,17 @@
-# Fonte de tensao
-Projeto da disciplina de eletrônica para computação - Prof. Eduardo Simões - USP São Carlos, ICMC
+# Fonte de tensão regulável
+Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professor Eduardo Simões - USP São Carlos, ICMC.
 
 # Grupo 44
 Enzo Nunes Sedenho - 13671810
 
 Pedro Augusto Monteiro Delgado - 13672766
 
-aaa - aaa
+Luis Henrique Giorgetti Dantas - 13782369
 
-aaa - aaa
+Yvin Miguel Juanico Carvalho - 13677239
 
 # Objetivo
-Projetar e construir uma fonte de tensão regulável entre 3V e 12V, com base nos conhecimentos adiquiridos durante o primeiro semestre de eletrônica para computação, curso de ciências da computação.
+Projetar e construir uma fonte de tensão regulável entre 3V e 12V, com base nos conhecimentos adquiridos durante o primeiro semestre de eletrônica para computação, curso de ciências da computação.
 
 # Diagramas da Fonte
 
