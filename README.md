@@ -1,4 +1,4 @@
-# Fonte de tensão regulável
+# Trabalho 1 - Fonte de tensão regulável
 Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professor Eduardo Simões - USP São Carlos, ICMC.
 
 # Grupo 44
@@ -11,7 +11,7 @@ Luis Henrique Giorgetti Dantas - 13782369
 Yvin Miguel Juanico Carvalho - 13677239
 
 # Objetivo
-Projetar e construir uma fonte de tensão regulável entre 3V e 12V, com base nos conhecimentos adquiridos durante o primeiro semestre de eletrônica para computação, curso de ciências da computação.
+Projetar e construir uma fonte de tensão retificadora regulável entre 3V e 12V, com capacaidade de 100 mA.  
 
 # Diagramas da Fonte
 
@@ -37,16 +37,16 @@ Projetar e construir uma fonte de tensão regulável entre 3V e 12V, com base no
 
 |  Quantidade  |  Componente  |  Especificações  |  Preço  |
 |---|---|---|---|
-| 1 | Potenciômetro | 1W B5K B-16 5XE-20XR-7MM J | R$ 7,00 |
-| 1 | Diodo zener | 13V 1W = 1N4743 SEMTECH | R$ 0,48 |
-| 1 | Capacitor | capacitor ELCO 680uF X 10V 105ºC 12,2 X 8 TOP | R$ 1,40 |
-| 1 | Transistor | transistor BC548B N 30V 0,1A 0,5W 300MHZ TOP | R$ 0,50 |
-| 4 | Diodo | diodo retificador 1N4007 LGE = 1N4004 | R$ 0,20 |
-| 4 | Resistor 1k | resistor CR25 1K carvão LGE | R$ 0,07 |
-| 1 | Resistor 2k | resistor CR25 2K2 carvão ROHS | R$ 0,07 |
-| 1 | Transformador | 127V - 24V | - |
-| 1 | Protoboard | - | - |
-| 15 | - | - | R$ 10,53 |
+| 1x | Potenciômetro | 1W B5K B-16 5XE-20XR-7MM J | R$ 7,00 |
+| 1x | Diodo zener | 13V 1W = 1N4743 SEMTECH | R$ 0,48 |
+| 1x | Capacitor | capacitor ELCO 680uF X 10V 105ºC 12,2 X 8 TOP | R$ 1,40 |
+| 1x | Transistor | transistor BC548B N 30V 0,1A 0,5W 300MHZ TOP | R$ 0,50 |
+| 4x | Diodo | diodo retificador 1N4007 LGE = 1N4004 | R$ 0,20 |
+| 4x | Resistor 1k | resistor CR25 1K carvão LGE | R$ 0,07 |
+| 1x | Resistor 2k | resistor CR25 2K2 carvão ROHS | R$ 0,07 |
+| 1x | Transformador | 127V - 24V | - |
+| 1x | Protoboard | - | - |
+| - | - | - | R$ 10,53 |
 
 Obs.: O transformador, fios e protoboard foram emprestados do laboratório.
 
