@@ -8,9 +8,9 @@ Projeto da disciplina de eletrônica para computação - Prof. Eduardo Simões -
 Projetar e construir uma fonte e etc especificações e os krl
 
 # Diagrama da Fonte
-![Diagrama da fonte no Falstad](foto do falstad "Diagrama da fonte no Falstad")
+![Diagrama da fonte no Falstad](https://imgur.com/D4girGb "Diagrama da fonte no Falstad")
 
-[Link para o circuito no Falstad](link do falstad)
+[Link para o circuito no Falstad](https://tinyurl.com/25gdhbp7)
 
 # Componentes da fonte:
 (
