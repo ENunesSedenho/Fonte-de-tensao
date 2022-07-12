@@ -1,14 +1,14 @@
 # Fonte de tensão regulável
-Projeto da disciplina de eletrônica para computação - Prof. Eduardo Simões - USP São Carlos, ICMC
+Projeto da disciplina de Eletrônica para Computação - Prof. Eduardo Simões - USP São Carlos, ICMC.
 
 # Grupo 44
 Enzo Nunes Sedenho - 13671810
 
+Luis Henrique Giorgetti Dantas - 13782369
+
 Pedro Augusto Monteiro Delgado - 13672766
 
-aaa - aaa
-
-aaa - aaa
+Yvin Miguel Juanico Carvalho - 13677239
 
 # Objetivo
 Projetar e construir uma fonte e etc especificações e os krl
