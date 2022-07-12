@@ -1,10 +1,13 @@
 # Fonte-de-tensao
 Projeto da disciplina de eletrônica para computação - Prof. Eduardo Simões - USP São Carlos, ICMC
 
-# Grupo (nº do grupo)
+# Grupo (44)
 Enzo Nunes Sedenho - 13671810
+
 Pedro Augusto Monteiro Delgado - 13672766
+
 aaa - aaa
+
 aaa - aaa
 
 # Objetivo
