@@ -10,7 +10,7 @@ Projetar e construir uma fonte e etc especificações e os krl
 # Diagrama da Fonte
 ![alt text][foto1]
 
-[foto1]: [https://imgur.com/D4girGb](https://i.imgur.com/D4girGb.png)
+[foto1]: https://i.imgur.com/D4girGb.png
 
 [Link para o circuito no Falstad](https://tinyurl.com/25gdhbp7)
 
