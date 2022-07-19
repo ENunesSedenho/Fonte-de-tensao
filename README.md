@@ -50,7 +50,6 @@ Projetar e construir uma fonte de tensão retificadora regulável entre 3V e 12V
 
 Obs.: O transformador, fios e protoboard foram emprestados do laboratório.
 
-## Projeto no Eagle: 
 
 # Vídeos 
 [video](link do video)
