@@ -49,7 +49,7 @@ Projetar e construir uma fonte de tensão retificadora regulável entre 3V e 12V
 | 1x | Protoboard | - | - |
 | Total | - | - | R$ 10,53 |
 
-Obs.: O transformador, fios e protoboard foram emprestados do laboratório.
+* Obs.: O transformador, fios e protoboard foram emprestados do laboratório.
 
 
 # Vídeos 
