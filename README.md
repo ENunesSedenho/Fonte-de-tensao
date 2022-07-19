@@ -46,7 +46,7 @@ Projetar e construir uma fonte de tensão retificadora regulável entre 3V e 12V
 | 1x | Resistor 2k | resistor CR25 2K2 carvão ROHS | R$ 0,07 |
 | 1x | Transformador | 127V - 24V | - |
 | 1x | Protoboard | - | - |
-| - | - | - | R$ 10,53 |
+| Total | - | - | R$ 10,53 |
 
 Obs.: O transformador, fios e protoboard foram emprestados do laboratório.
 
