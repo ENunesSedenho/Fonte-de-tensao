@@ -28,12 +28,14 @@ Projetar e construir uma fonte de tensão retificadora regulável entre 3V e 12V
 
 <img src="https://i.imgur.com/pnylql7.jpg">
 
-<img src="https://i.imgur.com/MLAnHvz.png">
+<img src="https://i.imgur.com/MLAnHvz.png"> 
 
 
 ## Foto da fonte montada
 
 <img src="https://i.imgur.com/qI4lcMk.jpg">
+
+## Cálculos
 
 
 ## Componentes da fonte
