@@ -19,9 +19,9 @@ Projetar e construir uma fonte de tensão retificadora regulável entre 3V e 12V
 
 ## Diagrama do circuito no Falstad
 
-<img src="https://i.imgur.com/0nFfBL7.png">
+<img src="https://i.imgur.com/pRqMGCU.png">
 
-* **Link para o circuito no Falstad:** https://tinyurl.com/2bp4uzkz
+* **Link para o circuito no Falstad:** https://tinyurl.com/2dyst6ju
 
 
 ## Diagrama do circuito no Eagle
