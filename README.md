@@ -12,7 +12,7 @@ Pedro Augusto Monteiro Delgado - 13672766
 Yvin Miguel Juanico Carvalho - 13677239
 
 # Objetivo
-Projetar e construir uma fonte de tensão retificadora regulável entre 3V e 12V, com capacaidade de 100 mA.  
+Projetar e construir uma fonte de tensão retificadora regulável entre 3V e 12V, com capacaidade de 100 mA, com ripple de 10%. 
 
 # Diagramas da Fonte
 
