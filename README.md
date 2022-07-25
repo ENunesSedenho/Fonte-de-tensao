@@ -5,9 +5,9 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 # Grupo 44
 Enzo Nunes Sedenho - 13671810
 
-Pedro Augusto Monteiro Delgado - 13672766
-
 Luis Henrique Giorgetti Dantas - 13782369
+
+Pedro Augusto Monteiro Delgado - 13672766
 
 Yvin Miguel Juanico Carvalho - 13677239
 
