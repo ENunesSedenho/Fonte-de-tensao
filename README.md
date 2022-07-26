@@ -31,16 +31,16 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 ## Circuito no Falstad
 
 <img src="https://i.imgur.com/h2QQSWN.png">
-
-* **Link para o circuito no Falstad:** https://tinyurl.com/2dyst6ju
+> Diagrama do circuito no simulador [Falstad](https://tinyurl.com/29mso46y)
 
 ## Circuito no Eagle
 
-<img src="https://i.imgur.com/gJSqxAC.jpg">
+<img src="https://i.imgur.com/49QObXO.jpg"> 
+> Diagrama esquemático do circuito no programa Eagle
 
 ## PCB no Eagle
-
-<img src="https://i.imgur.com/49QObXO.jpg"> 
+<img src="https://i.imgur.com/gJSqxAC.jpg">
+> Diagrama PCB do circuito no programa Eagle
 
 ## Fotos do circuito montado
 
