@@ -22,7 +22,7 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 | 1x | Resistor 1,5k Ω | R$ 0,07 |
 | 1x | Transformador 127V - 18V | - | - |
 | 1x | Protoboard | - | - |
-| Total | - | R$ 10,53 |
+| Total | - | R$ 10,39 |
 
 * Obs.: O transformador, fios e protoboard foram emprestados do laboratório.
  
