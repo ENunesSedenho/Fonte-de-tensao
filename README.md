@@ -29,18 +29,19 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 # Diagramas da Fonte
 
 ## Circuito no Falstad
-
+> [Diagrama do circuito no simulador Falstad](https://tinyurl.com/29mso46y)
 <img src="https://i.imgur.com/h2QQSWN.png">
-> Diagrama do circuito no simulador [Falstad](https://tinyurl.com/29mso46y)
+
 
 ## Circuito no Eagle
-
-<img src="https://i.imgur.com/49QObXO.jpg"> 
 > Diagrama esquemático do circuito no programa Eagle
+<img src="https://i.imgur.com/49QObXO.jpg"> 
+
 
 ## PCB no Eagle
-<img src="https://i.imgur.com/gJSqxAC.jpg">
 > Diagrama PCB do circuito no programa Eagle
+<img src="https://i.imgur.com/gJSqxAC.jpg">
+
 
 ## Fotos do circuito montado
 
