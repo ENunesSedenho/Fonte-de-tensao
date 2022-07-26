@@ -13,7 +13,7 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 
 ## Diagrama do circuito no Falstad
 
-<img src="https://imgur.com/a/rZYBihw.jpg">
+<img src="https://imgur.com/a/rZYBihw">
 
 * **Link para o circuito no Falstad:** https://tinyurl.com/2dyst6ju
 
