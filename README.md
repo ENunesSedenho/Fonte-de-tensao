@@ -2,7 +2,7 @@
 Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professor Eduardo Simões - USP São Carlos, ICMC.
 
 
-# Grupo 44
+## Grupo 44
 |  Nº USP  |  Aluno  |
 |---|---|
 | 13671810 | Enzo Nunes Sedenho | 
