@@ -10,18 +10,16 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 | 13677239 | Yvin Miguel Juanico Carvalho | 
 
 # Componentes da fonte
-
 |  Qtd.  |  Componente |  Preço  |
 |---|---|---|
-| 1x | Arduino UNO | R$ XXX |
-| 5x | Push button | R$ xxx |
-| 1x | Buzzer 5V | R$ xxx |
-| 1x | Led difuso Azul | R$ xx |
-| 1x | Led difuso Verde | R$ xxx |
-| 1x | Led difuso Vermelho | R$ xxx |
-| 1x | Led difuso Amarelo | R$ xxx |
-| 1x | Resistor 470 Ω| R$ xx |
-| 3x | Resistor 220 Ω | R$ xx |
+| 1x | Potenciômetro linear 5k Ω | R$ 7,00 |
+| 1x | Diodo Zener 13V 1N4743 | R$ 0,48 |
+| 1x | Capacitor 560µF 25V | R$ 1,40 |
+| 1x | Transistor NPN BC548B| R$ 0,50 |
+| 4x | Diodo Retificador 0,7V 1N4007 | R$ 0,20 |
+| 2x | Resistor 1k Ω| R$ 0,07 |
+| 1x | Resistor 1,5k Ω | R$ 0,07 |
+| 1x | Led difuso Vermelho | R$ XXXX |
 | 1x | Protoboard | - | - |
 | Total | - | R$ 10,39 |
 
