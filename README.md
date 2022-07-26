@@ -31,19 +31,15 @@ _Obs.: O transformador, os fios e a protoboard foram emprestados do laboratório
 > [Diagrama do circuito no simulador Falstad](https://tinyurl.com/29mso46y)
 <img src="https://i.imgur.com/h2QQSWN.png">
 
-
 ## Circuito no Eagle
 > Diagrama esquemático do circuito no programa Eagle
 <img src="https://i.imgur.com/49QObXO.jpg"> 
-
 
 ## PCB no Eagle
 > Diagrama PCB do circuito no programa Eagle
 <img src="https://i.imgur.com/gJSqxAC.jpg">
 
-
 # Fotos do circuito montado
-
 > Visão geral do circuito
 <img src="https://i.imgur.com/Ky8oyaa.jpg">
 
@@ -52,6 +48,41 @@ _Obs.: O transformador, os fios e a protoboard foram emprestados do laboratório
 
 > Tensão máxima fornecida pelo circuito
 <img src="https://i.imgur.com/J0DqqGh.jpg">
+
+# Explicação dos componentes
+Cada componente possui uma função importante para o bom funcionamento do circuito segundo as especificações buscadas.
+
+## Transformador
+<img src="https://i.imgur.com/orS3TIj.png">
+XXXXXXXXXX
+
+## Ponte de diodos
+<img src="https://i.imgur.com/x1aQk4k.png">
+XXXXXXXXXX
+
+## Capacitor
+<img src="https://i.imgur.com/eNIsgHw.png">
+XXXXXXXXXX
+
+## Resistor
+<img src="https://i.imgur.com/ElBNbHO.png">
+XXXXXXXXXX
+
+## Diodo Zener
+<img src="https://i.imgur.com/knXaUa2.png">
+XXXXXXXXXX
+
+## Potenciômetro linear
+<img src="https://i.imgur.com/4BrF7r1.png">
+XXXXXXXXXX
+
+## Transistor
+<img src="https://i.imgur.com/g6hqfvm.png">
+XXXXXXXXXX
+
+## Led
+<img src="https://i.imgur.com/4h1QxH5.png">
+XXXXXXXXXXXXXXX
 
 # Cálculos
 > Cálculos realizados para projetar o circuito
