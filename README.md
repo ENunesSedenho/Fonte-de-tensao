@@ -28,22 +28,30 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
  
 # Diagramas da Fonte
 
-## Diagrama do circuito no Falstad
+## Circuito no Falstad
 
 <img src="https://i.imgur.com/h2QQSWN.png">
 
 * **Link para o circuito no Falstad:** https://tinyurl.com/2dyst6ju
 
-## Diagramas do circuito no Eagle
+## Circuito no Eagle
 
 <img src="https://i.imgur.com/gJSqxAC.jpg">
 
-<img src="https://i.imgur.com/49QObXO.jpg"> 
+## PCB no Eagle
 
+<img src="https://i.imgur.com/49QObXO.jpg"> 
 
 ## Fotos do circuito montado
 
-<img src="https://i.imgur.com/qI4lcMk.jpg">
+> Visão geral do circuito
+<img src="https://i.imgur.com/Ky8oyaa.jpg">
+
+> Tensão mínima fornecida pelo circuito
+<img src="https://i.imgur.com/XeoWRnE.jpg">
+
+> Tensão máxima fornecida pelo circuito
+<img src="https://i.imgur.com/J0DqqGh.jpg">
 
 ## Cálculos
 
