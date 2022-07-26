@@ -54,7 +54,7 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 > Tensão máxima fornecida pelo circuito
 <img src="https://i.imgur.com/J0DqqGh.jpg">
 
-## Cálculos
+# Cálculos
 > Cálculos realizados para projetar o circuito
 <img src="https://i.imgur.com/K7KXgve.png">
 
