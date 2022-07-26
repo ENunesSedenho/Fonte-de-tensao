@@ -1,5 +1,5 @@
 # Trabalho 1 - Fonte de tensão regulável
-Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professor Eduardo Simões - USP São Carlos, ICMC. O objetivo é projetar e construir uma fonte de tensão retificadora regulável entre 3V e 12V, com capacaidade de 100 mA, com ripple de 10%.
+Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professor Eduardo Simões - USP São Carlos, ICMC. O objetivo é projetar e construir uma fonte de tensão retificadora regulável entre 3V e 12V, com capacidade de 100 mA, com ripple de 10%.
 
 ## Grupo 44
 |  Nº USP  |  Aluno  |
@@ -25,7 +25,7 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 <img src="https://i.imgur.com/MLAnHvz.png"> 
 
 
-## Foto da fonte montada
+## Foto do circuito montado
 
 <img src="https://i.imgur.com/qI4lcMk.jpg">
 
