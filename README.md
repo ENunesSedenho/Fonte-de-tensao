@@ -50,39 +50,28 @@ _Obs.: O transformador, os fios e a protoboard foram emprestados do laboratório
 <img src="https://i.imgur.com/J0DqqGh.jpg">
 
 # Explicação dos componentes
-Cada componente possui uma função importante para o bom funcionamento do circuito segundo as especificações buscadas.
+Cada componente possui uma função importante para o bom funcionamento do circuito segundo as especificações buscadas. O objetivo do circuito é receber uma corrente alternada da tomada, com tensão de 127V e fornecer uma tensão regulável entre 3V e 12V, com corrente contínua com capacidade de 100mA. Temos uma fonte de alimentação que simula uma tomada convencional. A corrente fornecida é alternada e possui frequência de 60 hz. A tensão média é de 127 V, o que representa uma tensão de pico de aproximadamente 180 V. 
 
 ## Transformador
-<img src="https://i.imgur.com/orS3TIj.png">
-XXXXXXXXXX
+Para diminuir essa tensão, utilizamos um transformador que, basicamente, transforma a tensão vinda da tomada, com pico de 180V, para uma tensão menor, com pico de aproximadamente 25,4 V. Isso representa uma razão de transformação igual a 7. 
 
 ## Ponte de diodos
-<img src="https://i.imgur.com/x1aQk4k.png">
-XXXXXXXXXX
+Após diminuir a tensão utilizando o transformador, a corrente do circuito permanece alternada, sendo ora positiva, ora negativa. Contudo, para o objetivo do circuito, que é fornecer energia para um dispositivo, é necessário que ela seja contínua. Para isso, primeiro, utilizamos uma ponte de diodos.  Após a ponte de diodos, a corrente é sempre positiva, mas possui alta variação, o que não é interessante para o objetivo do circuito. Além disso, a ponte de diodos é responsável por provocar uma queda de tensão do circuito e torná-la mais constante, mas ainda com um “ripple”.
 
 ## Capacitor
-<img src="https://i.imgur.com/eNIsgHw.png">
-XXXXXXXXXX
-
-## Resistor
-<img src="https://i.imgur.com/ElBNbHO.png">
-XXXXXXXXXX
+Utilizando um capacitor, podemos atenuar essa variação de corrente, já que ele será carregado quando a corrente de alimentação estiver aumentando e descarregado quando a corrente de alimentação estiver diminuindo, fornecendo corrente para o restante do circuito. Dessa forma, garantimos uma corrente mais estável para o restante do circuito.
 
 ## Diodo Zener
-<img src="https://i.imgur.com/knXaUa2.png">
-XXXXXXXXXX
+Para controlar a tensão do circuito, utilizamos um diodo zener com tensão de regulagem igual a 13V. O diodo zener só permite a passagem de corrente através dele se a tensão for maior que a tensão de ruptura do diodo, que nesse caso é de 13V. Para qualquer tensão maior que 13V, o diodo zener funciona como um curto-circuito e a corrente passa pelo diodo zener, diminuindo a tensão até 13V, quando o zener não permite mais a passagem de corrente. Dessa forma, a tensão fornecida para o restante do circuito será constante e bem próxima de 13V. É importante adicionar um resistor, nesse caso de 1kΩ, antes do diodo zener, para reduzir a amperagem da corrente e evitar que o diodo zener queime.
 
-## Potenciômetro linear
-<img src="https://i.imgur.com/4BrF7r1.png">
-XXXXXXXXXX
+## Potenciômetro
+Como o objetivo do circuito é fornecer uma tensão regulável de 3V a 12V precisamos que a tensão - nesse ponto do circuito, igual a 13V - possa variar nesse intervalo. Para isso, utilizamos um potenciômetro, que é basicamente um resistor de resistência variável. Nesse caso, o potenciômetro varia de 0Ω a 5kΩ.  Utilizamos um resistor de 1,5kΩ após o potênciometro, que limita o mínimo de tensão que será fornecida pelo circuito, nesse caso, pouco abaixo de 3V. 
 
 ## Transistor
-<img src="https://i.imgur.com/g6hqfvm.png">
-XXXXXXXXXX
+O último componente do circuito é o transistor, que regula a corrente com base na variação de tensão entre a base e o emissor, nesse caso, a variação máxima é 0,7 V. O resistor de 120Ω simula o dispositivo que será carregado pela fonte.
 
 ## Led
-<img src="https://i.imgur.com/4h1QxH5.png">
-XXXXXXXXXXXXXXX
+O led funciona exclusivamente para verificar a passagem de corrente no circuito. Utilizamos um resistor de 1kΩ para evitar que o led se queime.
 
 # Cálculos
 > Cálculos realizados para projetar o circuito
