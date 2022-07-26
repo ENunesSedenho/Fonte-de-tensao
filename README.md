@@ -9,7 +9,7 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 | 13672766 | Pedro Augusto Monteiro Delgado | 
 | 13677239 | Yvin Miguel Juanico Carvalho | 
 
-## Componentes da fonte
+# Componentes da fonte
 
 |  Qtd.  |  Componente |  Preço  |
 |---|---|---|
