@@ -34,8 +34,8 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 
 ## Componentes da fonte
 
-|  Qtd.  |  Componente  |  Especificações  |  Preço  |
-|---|---|---|---|
+|  Qtd.  |  Componente |  Preço  |
+|---|---|---|
 | 1x | Potenciômetro linear 5k | R$ 7,00 |
 | 1x | Diodo Zener 13V 1N4743 | R$ 0,48 |
 | 1x | Capacitor 560uF 25V | R$ 1,40 |
