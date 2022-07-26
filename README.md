@@ -1,5 +1,5 @@
 # Trabalho 1 - Fonte de tensão regulável
-Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professor Eduardo Simões - USP São Carlos, ICMC. O objetivo é projetar e construir uma fonte de tensão retificadora regulável entre 3V e 12V, com capacidade de 100 mA, com ripple de 10%.
+Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professor Eduardo Simões - USP São Carlos, ICMC. O objetivo é projetar e construir uma fonte de tensão retificadora regulável entre 3V e 12V, com capacidade de 100 mA, com ripple de 10%. A fonte receberá da tomada uma corrente alternada, com frequência de 60Hz, e uma tensão de 127V.
 
 ## Grupo 44
 |  Nº USP  |  Aluno  |
@@ -8,29 +8,6 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 | 13782369 | Luis Henrique Giorgetti Dantas | 
 | 13672766 | Pedro Augusto Monteiro Delgado | 
 | 13677239 | Yvin Miguel Juanico Carvalho | 
- 
-# Diagramas da Fonte
-
-## Diagrama do circuito no Falstad
-
-<img src="https://i.imgur.com/h2QQSWN.png">
-
-* **Link para o circuito no Falstad:** https://tinyurl.com/2dyst6ju
-
-
-## Diagramas do circuito no Eagle
-
-<img src="https://i.imgur.com/pnylql7.jpg">
-
-<img src="https://i.imgur.com/MLAnHvz.png"> 
-
-
-## Foto do circuito montado
-
-<img src="https://i.imgur.com/qI4lcMk.jpg">
-
-## Cálculos
-
 
 ## Componentes da fonte
 
@@ -45,10 +22,33 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 | 1x | Resistor 1,5K | R$ 0,07 |
 | 1x | Transformador | - | - |
 | 1x | Protoboard | - | - |
-| Total | - | - | R$ 10,53 |
+| Total | - | R$ 10,53 |
 
 * Obs.: O transformador, fios e protoboard foram emprestados do laboratório.
+ 
+# Diagramas da Fonte
+
+## Diagrama do circuito no Falstad
+
+<img src="https://i.imgur.com/h2QQSWN.png">
+
+* **Link para o circuito no Falstad:** https://tinyurl.com/2dyst6ju
+
+## Diagramas do circuito no Eagle
+
+<img src="https://i.imgur.com/pnylql7.jpg">
+
+<img src="https://i.imgur.com/MLAnHvz.png"> 
 
 
-# Vídeos 
+## Fotos do circuito montado
+
+<img src="https://i.imgur.com/qI4lcMk.jpg">
+
+## Cálculos
+
+
+
+
+## Vídeos 
 [video](link do video)
