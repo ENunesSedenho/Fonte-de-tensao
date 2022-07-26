@@ -34,15 +34,15 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 
 ## Componentes da fonte
 
-|  Quantidade  |  Componente  |  Especificações  |  Preço  |
+|  Qtd.  |  Componente  |  Especificações  |  Preço  |
 |---|---|---|---|
-| 1x | Potenciômetro linear | 1W B5K | R$ 7,00 |
-| 1x | Diodo Zener | 13V 1W - 1N4743 | R$ 0,48 |
-| 1x | Capacitor | 560uF 30V | R$ 1,40 |
-| 1x | Transistor NPN | 30V 0,1A 0,5W - BC548B| R$ 0,50 |
-| 4x | Diodo Retificador | 0,7V - 1N4007 | R$ 0,20 |
-| 4x | Resistor | 1K Carvão | R$ 0,07 |
-| 1x | Resistor | 2K2 Carvão | R$ 0,07 |
+| 1x | Potenciômetro linear 5k | R$ 7,00 |
+| 1x | Diodo Zener 13V 1N4743 | R$ 0,48 |
+| 1x | Capacitor 560uF 25V | R$ 1,40 |
+| 1x | Transistor NPN 0,1A 30V BC548B| R$ 0,50 |
+| 4x | Diodo Retificador 0,7V 1N4007 | R$ 0,20 |
+| 2x | Resistor 1K | R$ 0,07 |
+| 1x | Resistor 1,5K | R$ 0,07 |
 | 1x | Transformador | - | - |
 | 1x | Protoboard | - | - |
 | Total | - | - | R$ 10,53 |
