@@ -55,9 +55,7 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 <img src="https://i.imgur.com/J0DqqGh.jpg">
 
 ## Cálculos
+> Cálculos realizados para projetar o circuito
+<img src="https://i.imgur.com/K7KXgve.png">
 
-
-
-
-## Vídeos 
-[video](link do video)
+> [Vídeo explicativo sobre o projeto](https://youtu.be/uK48WSZexMw)
