@@ -36,9 +36,9 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 
 ## Diagramas do circuito no Eagle
 
-<img src="https://i.imgur.com/pnylql7.jpg">
+<img src="https://i.imgur.com/gJSqxAC.jpg">
 
-<img src="https://i.imgur.com/MLAnHvz.png"> 
+<img src="https://i.imgur.com/49QObXO.jpg"> 
 
 
 ## Fotos do circuito montado
