@@ -42,7 +42,7 @@ _Obs.: O transformador, os fios e a protoboard foram emprestados do laboratório
 <img src="https://i.imgur.com/gJSqxAC.jpg">
 
 
-## Fotos do circuito montado
+# Fotos do circuito montado
 
 > Visão geral do circuito
 <img src="https://i.imgur.com/Ky8oyaa.jpg">
