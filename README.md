@@ -23,7 +23,7 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 | 1x | Protoboard | - | - |
 | Total | - | R$ 10,39 |
 
-* Obs.: O transformador, fios e protoboard foram emprestados do laboratório.
+_Obs.: O transformador, os fios e a protoboard foram emprestados do laboratório._
  
 # Diagramas da Fonte
 
