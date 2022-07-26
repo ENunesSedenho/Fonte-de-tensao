@@ -3,13 +3,12 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 
 
 # Grupo 44
-Enzo Nunes Sedenho - 13671810
-
-Luis Henrique Giorgetti Dantas - 13782369
-
-Pedro Augusto Monteiro Delgado - 13672766
-
-Yvin Miguel Juanico Carvalho - 13677239
+|  Nº USP  |  Aluno  |
+|---|---|
+| 13671810 | Enzo Nunes Sedenho | 
+| 13782369 | Luis Henrique Giorgetti Dantas | 
+| 13672766 | Pedro Augusto Monteiro Delgado | 
+| 13677239 | Yvin Miguel Juanico Carvalho | 
 
 # Objetivo
 Projetar e construir uma fonte de tensão retificadora regulável entre 3V e 12V, com capacaidade de 100 mA, com ripple de 10%. 
