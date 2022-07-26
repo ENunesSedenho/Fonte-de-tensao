@@ -19,9 +19,9 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 | 4x | Diodo Retificador 0,7V 1N4007 | R$ 0,20 |
 | 2x | Resistor 1k Ω| R$ 0,07 |
 | 1x | Resistor 1,5k Ω | R$ 0,07 |
-| 1x | Led difuso Vermelho | R$ XXXX |
+| 1x | Led difuso Vermelho | R$ 0,50 |
 | 1x | Protoboard | - | - |
-| Total | - | R$ 10,39 |
+| Total | - | R$ 10,89 |
 
 _Obs.: O transformador, os fios e a protoboard foram emprestados do laboratório._
  
